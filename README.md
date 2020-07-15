@@ -1,5 +1,4 @@
 # BearMaps
-## Bear-Maps
 
 ## Berkeley CS61B Project 3 (inspired by Google Maps) 
 
