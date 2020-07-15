@@ -1,8 +1,0 @@
-Though we started working on the project on time and
-consistently worked on it, we ran into several bugs
-throughout the past couple days and therefore had to
-spend time running all the tests and debugging.
-We were mostly finished before the day of the deadline, but we
-wanted to fix an error in an edge case for our shortestPaths
-method. We had not encountered this edge case in our previous
-implementations.
